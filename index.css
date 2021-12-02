@@ -1,4 +1,4 @@
-* {
+v* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -166,7 +166,9 @@ section {
   color: #fff;
   filter: drop-shadow(2px 2px 4px rgba(255, 255, 255, 0.56));
 }
-
+.y{
+background-color: blue;
+}
 @media (max-width: 947px) and (min-width: 769px) {
   body {
     background-image: url("bg_image.jfif");
